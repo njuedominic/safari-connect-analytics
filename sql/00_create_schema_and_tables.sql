@@ -1,4 +1,5 @@
--- Create schema and tables for Safari Connect Database
+
+ -- Purpose: Create schema and staging tables for importing raw data from CSV files.
 
 CREATE SCHEMA IF NOT EXISTS safari_connect;
 
